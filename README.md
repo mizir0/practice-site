@@ -17,10 +17,12 @@
 ![Responsive](https://img.shields.io/badge/Responsive-Yes-brightgreen)
 
 
+
 ## 📚 Table of Contents
 - [Target Persona](#-target-persona)
 - [Project Purpose](#-project-purpose)
 - [Design Concept](#-design-concept)
+
 
 
 ---
