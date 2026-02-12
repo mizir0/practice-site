@@ -1,4 +1,4 @@
-![LP Preview](./lp-preview.png)
+![LP Preview](./lp-review.png)
 
 
 ---
